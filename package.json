@@ -1,0 +1,24 @@
+{
+  "name": "cypress-api-mocking-framework",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/chandimananayakkara/cypress-api-mocking-framework#readme",
+  "bugs": {
+    "url": "https://github.com/chandimananayakkara/cypress-api-mocking-framework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandimananayakkara/cypress-api-mocking-framework.git"
+  },
+  "license": "ISC",
+  "author": "Chandima Nanayakkara",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.16.0",
+    "typescript": "^6.0.3"
+  }
+}
